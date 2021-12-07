@@ -1,0 +1,7 @@
+body {background-image:linear-gradient(to bottom right, yellow, gold, orange);}
+marquee {background-color:darkred;box-shadow: 15px 15px 13px firebrick; border-radius:30px}
+p {text-shadow: 5px 4px 2px black; color:red;}
+ul {color:red; text-shadow: 5px 4px 2px black;}
+hr {box-shadow:0px 0px 12px green}
+h2 {background-color:tomato; border-radius:10px}
+.different {background-image:linear-gradient(to bottom right, yellow, gold, orange); box-shadow:5px 5px 5px orange}
